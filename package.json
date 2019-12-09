@@ -1,0 +1,19 @@
+{
+  "name": "nodehelper",
+  "version": "1.0.0",
+  "description": "helper class for MagicMirror modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdetweil/nodehelper.git"
+  },
+  "author": "sam detweiler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdetweil/nodehelper/issues"
+  },
+  "homepage": "https://github.com/sdetweil/nodehelper#readme"
+}
